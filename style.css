@@ -1,5 +1,8 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background-color: antiquewhite; */
 }
 h1{
     font-size: 30px;
@@ -24,6 +27,14 @@ section{
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange, orangered);
-    padding: 7px 10px 7px 10px;
+    padding: 10px 17px;
     border-radius: 7px;
+    font-weight: 600;
+    color: rgb(81, 48, 115);
+}
+
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
 }

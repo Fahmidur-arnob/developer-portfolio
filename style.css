@@ -9,3 +9,15 @@ h1{
     color: rgb(225, 153, 19);
 
 }
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 100%;
+    padding: auto;
+    margin: auto;
+}

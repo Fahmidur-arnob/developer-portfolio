@@ -12,7 +12,7 @@ h1{
     color: rgb(225, 153, 19);
 
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 135px;
 }
@@ -39,12 +39,9 @@ section{
     background-repeat: no-repeat;
     
 }
-.second-div{
-    width: 50%;
-    padding-right: 7%;
-}
-.second-div img{
-    width: 100%;
-    padding: 21px;
-    margin: 17px;
+
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
 }

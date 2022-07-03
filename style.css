@@ -45,10 +45,27 @@ h1{
     background-position: right bottom;
 }
 
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+.header-one{
+    text-align: center;
+}
+
 .experienced-item{
-    width: 37%;
-    margin-left: 3%;
-    margin-top: 3%;
-    padding: 10px 8px 10px 15px;
+    width: 50%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 5%;
+    padding: 10px 10px 10px 15px;
     box-shadow: 10px 10px 40px slategray;
+    border-radius: 8px;
+    text-align: center;
+    border-left: 7px solid blueviolet;
+}
+
+#full-stack{
+    border-left: 7px solid orangered;
 }

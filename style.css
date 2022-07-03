@@ -14,10 +14,16 @@ section{
 }
 .half-width{
     width: 50%;
-    padding-left: 3%;
+    padding-left: 5%;
 }
 .half-width img{
     width: 100%;
     padding: auto;
     margin: auto;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, orangered);
+    padding: 7px 10px 7px 10px;
+    border-radius: 7px;
 }

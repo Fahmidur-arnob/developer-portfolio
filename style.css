@@ -5,10 +5,9 @@ body{
     /* background-color: antiquewhite; */
 }
 h1{
-    font-size: 30px;
+    font-size: 53px;
 }
 .orange-color{
-    font-size: 270%;
     color: rgb(225, 153, 19);
 
 }
@@ -44,4 +43,12 @@ h1{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right bottom;
+}
+
+.experienced-item{
+    width: 37%;
+    margin-left: 3%;
+    margin-top: 3%;
+    padding: 10px 8px 10px 15px;
+    box-shadow: 10px 10px 40px slategray;
 }
